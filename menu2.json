@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "title": "Spring Rolls",
+      "category": "Appetizer",
+      "description": "Crispy spring rolls filled with vegetables and served with sweet chili sauce.",
+      "price": 6.99
+    },
+    {
+      "id": 2,
+      "title": "Edamame",
+      "category": "Appetizer",
+      "description": "Steamed young soybeans tossed in sea salt.",
+      "price": 4.49
+    },
+    {
+      "id": 3,
+      "title": "Gyoza",
+      "category": "Appetizer",
+      "description": "Japanese pan-fried dumplings filled with pork and vegetables.",
+      "price": 7.49
+    },
+    {
+      "id": 4,
+      "title": "Vegetable Tempura",
+      "category": "Appetizer",
+      "description": "Assorted vegetables lightly battered and fried until crispy.",
+      "price": 8.99
+    },
+    {
+      "id": 5,
+      "title": "Pad Thai",
+      "category": "Entree",
+      "description": "Traditional Thai stir-fried rice noodles with shrimp, tofu, bean sprouts, and crushed peanuts.",
+      "price": 12.99
+    },
+    {
+      "id": 6,
+      "title": "Sushi Platter",
+      "category": "Entree",
+      "description": "Assortment of fresh sushi including salmon, tuna, California rolls, and shrimp tempura rolls.",
+      "price": 18.99
+    },
+    {
+      "id": 7,
+      "title": "Beef Bulgogi",
+      "category": "Entree",
+      "description": "Korean-style marinated beef grilled to perfection and served with steamed rice and kimchi.",
+      "price": 14.99
+    },
+    {
+      "id": 8,
+      "title": "Peking Duck",
+      "category": "Entree",
+      "description": "Crispy roasted duck served with steamed pancakes, hoisin sauce, and sliced scallions.",
+      "price": 21.99
+    },
+    {
+      "id": 9,
+      "title": "Mango Sticky Rice",
+      "category": "Dessert",
+      "description": "Sweet sticky rice topped with fresh mango slices and coconut milk.",
+      "price": 5.99
+    },
+    {
+      "id": 10,
+      "title": "Green Tea Ice Cream",
+      "category": "Dessert",
+      "description": "Creamy green tea-flavored ice cream served with a drizzle of honey.",
+      "price": 4.99
+    },
+    {
+      "id": 11,
+      "title": "Red Bean Paste Buns",
+      "category": "Dessert",
+      "description": "Soft steamed buns filled with sweet red bean paste.",
+      "price": 3.99
+    },
+    {
+      "id": 12,
+      "title": "Tiramisu",
+      "category": "Dessert",
+      "description": "Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "price": 6.49
+    }
+  ]
